@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    background: #807490;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+#request{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://cdn.dribbble.com/userupload/7601287/file/original-2cfea1e8675900cd384bfe88d46f6b6d.png?compress=1&resize=752x");
+    color: rgb(240, 230, 230);
+    width: 100%;
+    font-size: 10px;
+    font-family: Georgia, serif;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1600px 1500px;
+    height:100%;
+}
+h1{
+
+    font-family: Georgia, serif;
+    font-weight: 900;
+    font-size: 42px;
+
+    text-align: center;
+    color: #000000;
+}
+button{
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 16px;
+    background: rgb(177, 169, 169);
+    border-radius: 5px;
+    color: black;
+    width: 120px;
+    height: 42px;
+    border: none;
+    margin-bottom: 25px;
+    
+}
+input{
+    margin: 31px;
+    font-family: 'Inter';
+    font-weight: 800;
+    font-size: 55px;
+    background: border-box;
+    color: white;
+    border: 2px solid #b75ff1;
+    border-radius: 5px;
+    width: 140px;
+    text-align: center;
+    padding: 5px 10px 5px 25px;
+    box-sizing: border-box;
+}
+#results{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 550px;
+    background: #F4F4F4;
+    margin: 0;
+    padding: 18px 0 30px 0;
+    font-size: 0px;
+    font-weight:bold;
+}
+.resultText{
+    background: rgb(157, 110, 182);
+    color: #353535;
+    width: 450px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+h2{
+    font-family: 'Cursive';
+    font-weight: 600;
+    font-size: 20px;
+    color: #282536;
+    line-height: 0;
+    margin-bottom: 25px;
+
+}
+p{
+    margin: 0 0 15px 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+
+  
